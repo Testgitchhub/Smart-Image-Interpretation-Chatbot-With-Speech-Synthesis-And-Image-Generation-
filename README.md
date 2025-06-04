@@ -1,0 +1,2 @@
+# Smart-Image-Interpretation-Chatbot-With-Speech-Synthesis-And-Image-Generation-
+Smart Image Chatbot analyzes and describes images verbally or in writing, aiding visually impaired users and enhancing interaction. It allows image upload, questioning, and even image generation/editing. The system boosts accessibility, engagement, and showcases AI’s potential in smart, interactive image communication.
